@@ -1,3 +1,5 @@
+# Game of life by Miral Abbastada
+
 import pygame
 import sys
 import random
